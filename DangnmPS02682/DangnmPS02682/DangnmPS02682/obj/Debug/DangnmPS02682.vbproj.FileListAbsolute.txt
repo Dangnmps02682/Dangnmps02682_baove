@@ -1,0 +1,10 @@
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\bin\Debug\DangnmPS02682.exe.config
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\bin\Debug\DangnmPS02682.exe
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\bin\Debug\DangnmPS02682.pdb
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\bin\Debug\DangnmPS02682.xml
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\obj\Debug\DangnmPS02682.frmQuanLySach.resources
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\obj\Debug\DangnmPS02682.Resources.resources
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\obj\Debug\DangnmPS02682.vbproj.GenerateResource.Cache
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\obj\Debug\DangnmPS02682.exe
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\obj\Debug\DangnmPS02682.xml
+C:\Users\PC01\Desktop\DangnmPS02682\DangnmPS02682\DangnmPS02682\obj\Debug\DangnmPS02682.pdb
